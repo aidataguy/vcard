@@ -2,8 +2,10 @@
 
 a vcard app
 
-###A Vcard App built with Flutter using Material Design Along with Material Icons
+### A Vcard App built with Flutter using Material Design Along with Material Icons
 
-###ScreenShot
+### ScreenShot
 
 ![Screenshot](/images/screen.png)
+
+### Feel Free to use
