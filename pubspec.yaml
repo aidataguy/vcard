@@ -1,0 +1,38 @@
+name: micardapp
+description: a vcard app
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/
+
+  fonts:
+     - family: Montserrat
+       fonts:
+         - asset: fonts/Montserrat-Regular.ttf
+         - asset: fonts/Montserrat-SemiBold.ttf
+           style: italic
+     - family: Raleway
+       fonts:
+         - asset: fonts/Raleway-Regular.ttf
+         - asset: fonts/Raleway-Bold.ttf
+           weight: 700
+     - family: Pacifico
+       fonts:
+           - asset: fonts/Pacifico-Regular.ttf
